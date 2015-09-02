@@ -1,0 +1,7 @@
+2014-10-12 16:25:11,684 ERROR Failed to execute module
+Traceback (most recent call last):
+  File "/home/pi/jasper/client/brain.py", line 78, in query
+    module.handle(text, self.mic, self.profile)
+  File "/home/pi/jasper/client/modules/LightContorl.py", line 24, in handle
+    mic.say(str.format("Changing the lights in {0} to {1}", Rooms[room], Status[status]))
+IndexError: list index out of range

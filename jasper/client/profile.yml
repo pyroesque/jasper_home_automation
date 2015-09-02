@@ -1,0 +1,13 @@
+carrier: vtext.com
+first_name: Chris
+gmail_address: cdjones42@gmail.com
+gmail_password: Gundam*0
+last_name: Jones
+location: '80526'
+phone_number: '9703420981'
+prefers_email: false
+stt_engine: google
+timezone: America/Denver
+keys:
+    FB_TOKEN: CAAKTN39ZAxEBANWE2ZAZCZAv3epWvWyg8hJIJ6gXoe3mjbgGXFzzXlZBnGHxPFWRZCRZAwtWHOT5KuGjCtVmj90gu48uM2bZCOw1YTVrUwFe8RlC0HZAxtH2aa0VBW04ZB9fyEiLuWNT72VaMHPFjdoZCh6ZAWgi8WMJVBa879Un7uRSEoWgm6g6UWvX2jYI3im4VCLGhicyHNUccv8HcFqC3Qp
+    GOOGLE_SPEECH: AIzaSyBrJOPhf3UX7RyC-hjNAIX4uCvM92e0Gqk 
